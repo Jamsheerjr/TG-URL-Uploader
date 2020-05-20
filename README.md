@@ -12,7 +12,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 ### Installation
 
 #### The Easiest Way
+@Userbot_Jr
 
+Deploy :- https://github.com/Jamsheerjr/TG-URL-Uploader#master
 
 ```sh
 virtualenv -p python3 VENV
