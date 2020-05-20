@@ -14,7 +14,11 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 #### The Easiest Way
 @Userbot_Jr
 
-Deploy :- https://github.com/Jamsheerjr/TG-URL-Uploader#master
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https://github.com/Jamsheerjr/TG-URL-Uploader#master)
+
+
+ 
 
 ```sh
 virtualenv -p python3 VENV
